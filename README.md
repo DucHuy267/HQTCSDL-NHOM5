@@ -25,7 +25,7 @@ Hướng dẫn
  
 
 + chọn app\java\com.name.foodapp\retrofit\RetrofitInstace , ở dòng 
-private static final String BASE_URL = "http://192.168.56.1/appfood/";
+private static final String BASE_URL = "http://192.168.56.1/foodapp/";
 
  
 
