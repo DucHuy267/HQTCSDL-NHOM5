@@ -1,15 +1,15 @@
-#FITVAA
+# FITVAA
 
 HỌC VIỆN HÀNG KHÔNG VIỆT NAM
 
 KHOA CONG NGHỆ THÔNG TIN
 
-NHOM 05
+NHÓM 05
 - Lê Trần Đức Huy
 - Hoàng Thị Thanh Trúc
 - Cao Thị Yến Nhung
 - Lê Dương Anh Thư
-- Trần Thảo
+- Trần Thảo Vy
 
 # Hướng dẫn download sourcode và chạy ứng dụng bán thức ăn nhanh
 Hướng dẫn
