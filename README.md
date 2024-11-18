@@ -1,8 +1,8 @@
 # FITVAA
 
-Học viện hàng không Việt Nam
+HỌC VIỆN HÀNG KHÔNG VIỆT NAM
 
-Khoa công nghệ thông tin
+KHOA CÔNG NGHỆ THÔNG TIN
 
 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU - NHÓM 05
 - Lê Trần Đức Huy
