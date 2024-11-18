@@ -2,9 +2,9 @@
 
 HỌC VIỆN HÀNG KHÔNG VIỆT NAM
 
-KHOA CONG NGHỆ THÔNG TIN
+KHOA CÔNG NGHỆ THÔNG TIN
 
-NHÓM 05
+HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU - NHÓM 05
 - Lê Trần Đức Huy
 - Hoàng Thị Thanh Trúc
 - Cao Thị Yến Nhung
